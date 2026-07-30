@@ -1,0 +1,1 @@
+SELECT name, capital,population FROM country WHERE population BETWEEN 60000000 AND 80000000 ORDER BY capital;
